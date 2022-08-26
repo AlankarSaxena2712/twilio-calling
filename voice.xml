@@ -1,4 +1,3 @@
 <Response>
-  <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-  <Play>https://firebasestorage.googleapis.com/v0/b/meriid-bb66d.appspot.com/o/callingBot%2FWhatsApp-Audio-2022-08-26-at-1.31.38-PM.mp3?alt=media&token=6b438c9e-064c-4ab5-a238-04d4c57de2fc</Play>
+  <Say voice="alice">Hello my name is kartikeya</Say>
 </Response>
